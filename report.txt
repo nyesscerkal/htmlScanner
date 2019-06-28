@@ -1,0 +1,3 @@
+Vulnerability Report for http://localhost:8000
+Form Issue: 	Insecure form action /post.php in document found
+Input Issue: 	Plaintext password input found
